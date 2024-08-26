@@ -1,4 +1,4 @@
-# ext-python-GroupInvite
+# ext-python-SendAnnouncement
 e小天python自动群公告
 
 功能
